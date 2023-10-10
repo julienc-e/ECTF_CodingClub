@@ -1,0 +1,17 @@
+> Le système hexadécimal nécessite l'introduction de 16 symboles représentant les 16 premiers entiers naturels, appelés chiffres hexadécimaux :
+> 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E et F.
+
+Ainsi, le nombre 12 en décimal devient C en hexadécimal.
+25 (décimal) devient 19 (hexadécimal).
+
+Convertissez cafe (hexadécimal) en décimal
+flag: ECTF{<résultat>}
+
+Ressources:
+Décimal vers Hexadécimal
+https://www.rapidtables.com/convert/number/decimal-to-hex.html
+
+Hexadécimal vers Décimal
+https://www.rapidtables.com/convert/number/hex-to-decimal.html
+
+https://fr.wikipedia.org/wiki/Syst%C3%A8me_hexad%C3%A9cimal

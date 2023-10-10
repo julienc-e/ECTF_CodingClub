@@ -1,0 +1,13 @@
+> En informatique, base64 est un codage de l'information utilisant 64 caractères, choisis pour être disponibles sur la majorité des systèmes. Défini en tant qu'encodage MIME dans la RFC 2045, il est principalement utilisé pour la transmission de messages (courrier électronique et forums Usenet) sur Internet. Il est par ailleurs défini en propre dans la RFC 4648.
+
+Convertissez OnDitChocolatine (texte) en Base 64.
+format: ECTF{<résultat>}
+
+Ressources:
+Texte vers Base64:
+https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')
+
+Base64 vers Texte:
+https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)
+
+https://fr.wikipedia.org/wiki/Base64

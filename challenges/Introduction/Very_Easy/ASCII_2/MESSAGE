@@ -1,0 +1,19 @@
+> La norme ASCII est à la base de la plupart des systèmes de gestions de fichiers et de données, ce qui fait que les limitations du jeu de caractères ASCII sont encore sensibles au XXIe siècle, par exemple dans le choix restreint de caractères généralement offerts pour composer une adresse électronique ou une adresse web.
+
+L'ASCII permet de représenter des lettres en informatique via des nombres.
+Par exemple, 65 représente la lettre 'A'.
+
+Convertissez n dans sa forme décimale.
+format: ECTF{<résultat>}
+
+Ressources:
+Table de correspondance Décimale <=> ASCII
+![ascii.png](/files/1bd54813d6a1f10f82fb398f78c36acb/ascii.png)
+
+Décimal vers ASCII
+https://gchq.github.io/CyberChef/#recipe=From_Decimal('Space',false)
+
+ASCII vers Décimal
+https://gchq.github.io/CyberChef/#recipe=To_Decimal('Space',false)
+
+https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange
