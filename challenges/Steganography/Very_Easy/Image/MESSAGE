@@ -1,0 +1,7 @@
+Il est possible d'ajouter des données supplémentaires, nommées métadonnées, dans une image.
+Leur principal usage est pour stocker des informations liées à la prise de ces photos, comme la date ou l'appareil utilisé, mais il est également possible d'y ajouter d'autres champs...
+
+format: ECTF{...}
+
+Resource:
+https://fotoforensics.com/
