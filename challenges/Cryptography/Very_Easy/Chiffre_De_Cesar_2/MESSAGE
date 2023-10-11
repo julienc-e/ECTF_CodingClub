@@ -1,0 +1,17 @@
+> En cryptographie, le chiffrement par décalage, aussi connu comme le chiffre de César ou le code de César (voir les différents noms), est une méthode de chiffrement très simple utilisée par Jules César dans ses correspondances secrètes (ce qui explique le nom « chiffre de César »). 
+
+Avec un décalage de 3, on obtient la situation suivante:
+![Caesar3.png](/files/3981828644a603c4f2d98956879d4dec/Caesar3.png)
+
+Ainsi, le texte "YLKGLRO". devient, "BONJOUR"
+Utilisez le Chiffre de César pour chiffrer le message suivant avec un décalage de 3:
+LesGauloisSontDeRetour
+
+format: ECTF{<résultat>}
+
+Références:
+Chiffrement & Déchiffrement de César
+https://www.dcode.fr/chiffre-cesar
+
+Article Wikipedia sur le Chiffrement par décalage:
+https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage
