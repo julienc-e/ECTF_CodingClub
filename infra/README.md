@@ -3,8 +3,8 @@ Repository to deploy CTFd using docker-compose, nginx & TLS.
 
 ## How to use this repository to start a CTFd instance with TLS
 
-1. Clone this repository by running `git clone https://github.com/tghosth/CTFd-docker-deploy.git`.
-2. Go into the directory which the repository was cloned into (`CTFd-docker-deploy` by default)
+1. Clone this repository by running `git clone https://github.com/julienc-e/ECTF_CodingClub.git`.
+2. Go into the directory which the repository was cloned into (`ECTF_CodingClub` by default)
 3. Install `docker` based on the instructions [here](https://docs.docker.com/install/).
 4. Copy the contents of the https://github.com/CTFd/CTFd repository into the `infra` folder.
 5. Setup your DNS records to point to the server where you are starting CTFd.
