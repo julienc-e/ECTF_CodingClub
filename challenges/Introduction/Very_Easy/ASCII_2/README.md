@@ -6,3 +6,6 @@ Introduction
 
 # Value
 10
+
+# Solve
+Convertion Ascii vers Décimale

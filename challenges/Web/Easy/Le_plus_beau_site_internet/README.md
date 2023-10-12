@@ -9,3 +9,6 @@ Web
 
 # Files
 ./files/index.html
+
+# Solve
+Commentaire dans le code source du site

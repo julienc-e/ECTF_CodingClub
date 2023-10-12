@@ -6,3 +6,6 @@ Introduction
 
 # Value
 50
+
+# Solve
+Base64

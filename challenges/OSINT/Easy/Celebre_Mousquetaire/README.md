@@ -10,5 +10,5 @@ OSINT
 # Files
 ./files/statue.jpg
 
-# How to build
-Can be empty if there's no build instruction.
+# Solve
+Google Image Search / Yandex / Autre

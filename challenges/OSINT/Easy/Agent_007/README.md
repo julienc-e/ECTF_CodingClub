@@ -10,5 +10,5 @@ OSINT
 # Files
 ./files/lieu.jpg
 
-# How to build
-Can be empty if there's no build instruction.
+# Solve
+Google Maps, Super U à Rennes

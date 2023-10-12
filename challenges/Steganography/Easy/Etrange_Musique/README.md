@@ -9,3 +9,6 @@ Steganography
 
 # Files
 ./files/chall.wav
+
+# Solve
+Analyse de spectre

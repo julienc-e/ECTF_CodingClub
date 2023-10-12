@@ -9,3 +9,6 @@ Steganography
 
 # Files
 ./files/Recette_Gateau.pdf
+
+# Solve
+Texte blanc sur fond blanc

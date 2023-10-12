@@ -6,3 +6,6 @@ Cryptography
 
 # Value
 10
+
+# Solve
+Cesar Cipher

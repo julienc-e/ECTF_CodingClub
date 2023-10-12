@@ -9,3 +9,6 @@ Steganography
 
 # Files
 ./files/dog.png
+
+# Solve
+https://fotoforensics.com/

@@ -9,3 +9,6 @@ Steganography
 
 # Files
 ./files/Archive.zip
+
+# Solve
+Fichier cachés. Utilisation du flag -a dans le terminal / affichage avec l'explorateur de fichier

@@ -9,3 +9,6 @@ OSINT
 
 # Files
 ./files/quiestce.png
+
+# Solve
+Google Image Search / Yandex / Autre
