@@ -2,7 +2,7 @@
 PyXor
 
 # Category
-Cryptography
+Reverse
 
 # Value
 200
